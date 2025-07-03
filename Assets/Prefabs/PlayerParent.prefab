@@ -4884,7 +4884,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPositions: {fileID: 0}
-  playerVisual: {fileID: 2943534268895752876}
   velocityParticles: {fileID: 2135995794566557119}
   movementSpeed: 10
   rotationSpeed: 8
@@ -5049,7 +5048,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &7830438776568356906
 Transform:
   m_ObjectHideFlags: 0

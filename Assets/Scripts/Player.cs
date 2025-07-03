@@ -4,7 +4,6 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     public Transform playerPositions;
-    public Transform playerVisual;
     public GameObject velocityParticles;
     
     public float movementSpeed = 10.0f;

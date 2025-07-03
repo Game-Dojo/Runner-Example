@@ -5,7 +5,9 @@ public class ObstaclesManager : MonoBehaviour
     public Obstacle obstaclePrefab;
     public Transform obstacleSpawner;
     public Transform despawnTransform;
+    
     private GameManager _gameManager;
+    
     private void Awake()
     {
         _gameManager = FindAnyObjectByType<GameManager>();
